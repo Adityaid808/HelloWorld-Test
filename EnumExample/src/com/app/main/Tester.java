@@ -59,7 +59,7 @@ public class Tester {
         
         System.out.println("Hello World");
         
-        System.out.println("My name is aditya");
+        System.out.println("My name is Aditya");
         
     }
 }
